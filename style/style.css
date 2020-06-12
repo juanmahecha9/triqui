@@ -1,0 +1,204 @@
+.tablero {
+  margin-top: 150px;
+  width: 900px;
+  height: 600px;
+  border: 1px black solid;
+  display: block;
+  margin: auto;
+}
+
+.tablero #fila1 {
+  margin: auto;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  width: 900px;
+  height: 200px;
+}
+
+.tablero #fila1 .casilla1 {
+  width: 300px;
+  border-bottom: 1px red solid;
+  border-right: 1px red solid;
+}
+
+.tablero #fila1 .casilla1 #btn1 #casilla1 {
+  text-align: center;
+  margin: auto;
+  width: 290px;
+  height: 190px;
+  border: none;
+  text-align: center;
+  font-size: 170px;
+}
+
+.tablero #fila1 .casilla2 {
+  width: 300px;
+  border-bottom: 1px red solid;
+  border-right: 1px red solid;
+  text-align: center;
+}
+
+.tablero #fila1 .casilla2 #casilla2 {
+  text-align: center;
+  margin: auto;
+  width: 290px;
+  height: 190px;
+  border: none;
+  text-align: center;
+  font-size: 170px;
+}
+
+.tablero #fila1 .casilla3 {
+  width: 300px;
+  border-bottom: 1px red solid;
+  text-align: center;
+}
+
+.tablero #fila1 .casilla3 #casilla3 {
+  text-align: center;
+  margin: auto;
+  width: 290px;
+  height: 190px;
+  border: none;
+  text-align: center;
+  font-size: 170px;
+}
+
+.tablero #fila2 {
+  margin: auto;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  width: 900px;
+  height: 200px;
+}
+
+.tablero #fila2 .casilla4 {
+  width: 300px;
+  border-bottom: 1px red solid;
+  border-right: 1px red solid;
+  text-align: center;
+}
+
+.tablero #fila2 .casilla4 #casilla4 {
+  text-align: center;
+  margin: auto;
+  width: 290px;
+  height: 190px;
+  border: none;
+  text-align: center;
+  font-size: 170px;
+}
+
+.tablero #fila2 .casilla5 {
+  width: 300px;
+  border-bottom: 1px red solid;
+  border-right: 1px red solid;
+  text-align: center;
+}
+
+.tablero #fila2 .casilla5 #casilla5 {
+  text-align: center;
+  margin: auto;
+  width: 290px;
+  height: 190px;
+  border: none;
+  text-align: center;
+  font-size: 170px;
+}
+
+.tablero #fila2 .casilla6 {
+  width: 300px;
+  border-bottom: 1px red solid;
+  text-align: center;
+}
+
+.tablero #fila2 .casilla6 #casilla6 {
+  text-align: center;
+  margin: auto;
+  width: 290px;
+  height: 190px;
+  border: none;
+  text-align: center;
+  font-size: 170px;
+}
+
+.tablero #fila3 {
+  margin: auto;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  width: 900px;
+  height: 200px;
+}
+
+.tablero #fila3 .casilla7 {
+  width: 300px;
+  border-right: 1px red solid;
+  text-align: center;
+}
+
+.tablero #fila3 .casilla7 #casilla7 {
+  text-align: center;
+  margin: auto;
+  width: 290px;
+  height: 190px;
+  border: none;
+  text-align: center;
+  font-size: 170px;
+}
+
+.tablero #fila3 .casilla8 {
+  width: 300px;
+  border-right: 1px red solid;
+  text-align: center;
+}
+
+.tablero #fila3 .casilla8 #casilla8 {
+  text-align: center;
+  margin: auto;
+  width: 290px;
+  height: 190px;
+  border: none;
+  text-align: center;
+  font-size: 170px;
+}
+
+.tablero #fila3 .casilla9 {
+  width: 300px;
+  text-align: center;
+}
+
+.tablero #fila3 .casilla9 #casilla9 {
+  text-align: center;
+  margin: auto;
+  width: 290px;
+  height: 190px;
+  border: none;
+  text-align: center;
+  font-size: 170px;
+}
+
+#dato {
+  text-align: center;
+  margin: auto;
+  width: 30%;
+}
+
+#dato p {
+  font-size: 50px;
+}
+/*# sourceMappingURL=style.css.map */
